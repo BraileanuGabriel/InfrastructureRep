@@ -24,7 +24,7 @@ Project is created with:
 * Sopring framewokr: 5.3.15
 	
 ## Milestones
-Pentru mai multe informatii vizitati
+![Screenshot](grantt.png)
  
 ## Instalare
 Instalarea se face ca la orice alte aplicatii de pe site-ul oficial al aplicatiei(https://www.siteneexistent/aplicatieneexistenta/)
