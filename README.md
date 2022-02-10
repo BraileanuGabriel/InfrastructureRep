@@ -10,7 +10,7 @@ For college
 * [Instalare](#instalare)
 * [Licenta](#licenta)
 
-##Echipa
+## Echipa
 * Volkovschi Penelopa-Katrin - Project Manager
 * Kozlov Artiom - Team Leader
 * Zaharadji Rodisvlav - Java Developer
