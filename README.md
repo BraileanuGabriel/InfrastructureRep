@@ -1,14 +1,11 @@
-# InfrastructureRep
-For college
+# Braileanu Gabriel P-1842
 
 ## Cuprins
 * [Echipa](#echipa)
 * [Informatie generala](#informatie-generala)
 * [Limbaje](#limbaje)
 * [Resurse](#resurse)
-* [Milestones](#milestones)
-* [Instalare](#instalare)
-* [Licenta](#licenta)
+* [Imagine arhitecturala](#imagine-arhitecturala)
 
 ## Echipa
 * Volkovschi Penelopa-Katrin - Project Manager
@@ -45,11 +42,9 @@ Proiectul a fost creat in:
 * Kotlin: 1.6.0
 * Spring framework: 5.3.15
 	
-## Milestones
+## imagine arhitecturala
 ![Screenshot](grantt.jpg)
  
-## Instalare
-Instalarea se face ca la orice alte aplicatii de pe site-ul oficial al aplicatiei(https://www.siteneexistent/aplicatieneexistenta/)
 
-## Licenta
-[MIT](https://choosealicense.com/licenses/mit/)
+
+
